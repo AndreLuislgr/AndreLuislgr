@@ -2,8 +2,7 @@
 
 ## Estudante de Ciências da Computação | Ciência de Dados | Full Stack 
 
-Olá! 👋 Eu sou André Luis, um estudante apaixonado por Ciências da Computação, atualmente cursando o 7º semestre. Meu fascínio pela tecnologia me levou a explorar diversas linguagens de programação, e hoje tenho experiência sólida em Python, JavaScript e C++. Além disso, possuo conhecimento em SQL Server.
-
+Olá! 👋 Eu sou André Luis, atualmente estou cursando o 7º semestre de Ciencias da Computação.
 ### 🚀 Habilidades
 - **Linguagens de Programação:** Python, JavaScript, C++
 - **Banco de Dados:** SQL Server
