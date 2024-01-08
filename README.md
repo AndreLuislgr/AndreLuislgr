@@ -23,4 +23,6 @@ Estou sempre em busca de aprendizado contínuo, seja explorando novas biblioteca
 - [LinkedIn](https://www.linkedin.com/in/andrelgr/)
 - [Email](https://criarmeulink.com.br/u/1704594396)
 🚀🚀
+
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuislgr&layout=donut)](https://github.com/AndreLuislgr/github-readme-stats)
