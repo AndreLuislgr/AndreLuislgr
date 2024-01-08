@@ -8,6 +8,7 @@ Olá! 👋 Eu sou André Luis, atualmente estou cursando o 7º semestre de Cienc
 - **Banco de Dados:** SQL Server
 - **Ciência de Dados:** Apaixonado por explorar dados e extrair insights valiosos.
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuislgr&layout=donut)](https://github.com/AndreLuislgr/github-readme-stats)
+  
 ### 💡 O que estou fazendo
 - Atualmente focado em aprimorar minhas habilidades em Ciência de Dados, explorando técnicas avançadas e ferramentas modernas.
 - Estudando para me tornar um Full Stack Developer, buscando uma compreensão abrangente tanto no desenvolvimento de frontend quanto backend.
