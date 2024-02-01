@@ -25,4 +25,4 @@ Estou sempre em busca de aprendizado contínuo, seja explorando novas biblioteca
 🚀🚀
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuislgr&layout=donut)](https://github.com/AndreLuislgr/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuislgr&layout=donut)](https://github.com/AndreLuislgr/github-readme-stats)
