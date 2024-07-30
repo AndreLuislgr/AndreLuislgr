@@ -1,6 +1,5 @@
 # André Luis
 
-## Estudante de Ciências da Computação | Ciência de Dados | Full Stack 
 
 Olá! 👋 Eu sou André Luis, atualmente estou cursando o 7º semestre de Ciencias da Computação.
 ### 🚀 Habilidades
@@ -10,7 +9,7 @@ Olá! 👋 Eu sou André Luis, atualmente estou cursando o 7º semestre de Cienc
   
 ### 💡 O que estou fazendo
 - Atualmente focado em aprimorar minhas habilidades em Ciência de Dados, explorando técnicas avançadas e ferramentas modernas.
-- Estudando para me tornar um Full Stack Developer, buscando uma compreensão abrangente tanto no desenvolvimento de frontend quanto backend.
+
 ### 📚 Educação
 - **Ciências da Computação:** 7º semestre - [UNICID]
 
