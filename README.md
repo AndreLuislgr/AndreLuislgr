@@ -1,17 +1,16 @@
 # André Luis
 
 
-Olá! 👋 Eu sou André Luis, atualmente estou cursando o 7º semestre de Ciencias da Computação.
+Olá! 👋 Eu sou André Luis, Formado em  Ciencias da Computação.
 ### 🚀 Habilidades
 - **Linguagens de Programação:** Python, JavaScript, C++
 - **Banco de Dados:** SQL Server
 - **Ciência de Dados:** Apaixonado por explorar dados e extrair insights valiosos.
   
-### 💡 O que estou fazendo
-- Atualmente focado em aprimorar minhas habilidades em Ciência de Dados, explorando técnicas avançadas e ferramentas modernas.
+
 
 ### 📚 Educação
-- **Ciências da Computação:** 7º semestre - [UNICID]
+- **Ciências da Computação
 
 ### 🌱 Aprendizado Contínuo
 
